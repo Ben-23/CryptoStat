@@ -1,6 +1,6 @@
 # cryptostat
 
-A new Flutter application.
+A new Flutter application for comparing the values of crypto currencies. 
 
 ## Getting Started
 
